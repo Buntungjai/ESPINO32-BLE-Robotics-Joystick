@@ -24,3 +24,8 @@ Ergonomic Layout: ออกแบบตำแหน่งปุ่มกด WASD
 <div align="center">
   <img src="images/backPCB_bb.png" alt="demo" width="600">
 </div>
+
+ติดแผ่นอะคลิลิคอีกชั้นเพื่อให้จับถนัดมือมากขึ้น
+<div align="center">
+  <img src="images/perfboard.JPG" alt="demo" width="600">
+</div>
