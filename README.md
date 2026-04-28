@@ -5,6 +5,8 @@
   <img src="images/joystick.JPG" alt="demo" width="600">
 </div>
 
+https://youtu.be/TNNunkKxHq8?si=Pb2Aw65VEmP1qJ-r
+
 Dual-Mode Functionality: รองรับทั้งโหมด BLE Gamepad และโหมดควบคุมหุ่นยนต์ผ่าน Wi-Fi (ROS2)
 
 Custom Hardware Design: บัดกรีวงจรด้วยมือบนแผ่นไข่ปลา (Perfboard) ขนาด 9x15 cm พร้อมเคสอะคริลิคใส
