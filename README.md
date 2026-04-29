@@ -9,7 +9,7 @@ https://youtu.be/adv-6_9NLgY
 <br>
 ควบคุมหุ่นยนต์ turtlebot3<br>
 https://youtu.be/TNNunkKxHq8?si=Pb2Aw65VEmP1qJ-r
-<br>
+<br><br>
 Dual-Mode Functionality: รองรับทั้งโหมด BLE Gamepad และโหมดควบคุมหุ่นยนต์ผ่าน Wi-Fi (ROS2)
 
 Custom Hardware Design: บัดกรีวงจรด้วยมือบนแผ่นไข่ปลา (Perfboard) ขนาด 9x15 cm พร้อมเคสอะคริลิคใส
