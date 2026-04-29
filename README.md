@@ -4,7 +4,7 @@
 <div align="center">
   <img src="images/joystick.JPG" alt="demo" width="600">
 </div>
-
+https://youtu.be/adv-6_9NLgY
 https://youtu.be/TNNunkKxHq8?si=Pb2Aw65VEmP1qJ-r
 
 Dual-Mode Functionality: รองรับทั้งโหมด BLE Gamepad และโหมดควบคุมหุ่นยนต์ผ่าน Wi-Fi (ROS2)
